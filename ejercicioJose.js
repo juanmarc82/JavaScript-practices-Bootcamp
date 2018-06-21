@@ -1,0 +1,18 @@
+console.log("Ejercicio 1 ");
+console.log(" ");
+var car = "Seat";
+console.log(car);
+console.log("\nEjercicio 2\n ");
+var number = 50;
+console.log(number);
+console.log("\nEjercicio 3\n ");
+var x = 5;
+var y = 10;
+console.log(x + y);
+console.log("\nEjercicio 4\n ");
+var firstName = "Juan";
+var lastName = "Pérez";
+var age = 50;
+console.log(firstName + " " + lastName + " " + "tiene " + age + " años. ");
+console.log("\nEjercicio 6\n ");
+console.log("\n " + firstName + "\n " + lastName + "\n " + "\ntiene " + "\n"+  age + " años. ");
